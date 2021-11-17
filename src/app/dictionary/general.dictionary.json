@@ -1,0 +1,9 @@
+{
+  "pages": {
+    "home": {
+      "title": "Home",
+      "name": "Company name",
+      "desc": "Add a content service to your Angular application! 🚀"
+    }
+  }
+}

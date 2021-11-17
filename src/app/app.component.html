@@ -1,0 +1,4 @@
+<h1>{{ content?.pages?.home?.title ?? 'title' }}</h1>
+<p>{{ content?.pages?.home?.desc ?? 'desc' }}</p>
+
+<h2 *ngIf="content?.asyncProp">{{ content?.asyncProp }}</h2>
